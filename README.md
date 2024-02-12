@@ -6,3 +6,4 @@ Here are some useful links, check them out:
   - [__str__ vs __repr__](https://stackoverflow.com/questions/1436703/what-is-the-difference-between-str-and-repr) 
   - [Iter method](https://docs.python.org/3/library/functions.html#iter)
   - [Dunder METHODS ](https://stackoverflow.com/questions/1301346/what-is-the-meaning-of-single-and-double-underscore-before-an-object-name)
+  - [generators](https://stackoverflow.com/questions/1756096/understanding-generators-in-python)
